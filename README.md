@@ -113,18 +113,4 @@ Pull requests are welcome. For significant changes, please open an issue to disc
 Please make sure to update tests as appropriate
 
 ## License
-NARENDRAHACKZ
-<div id="badges">
-  <a href="https://www.linkedin.com/in/karri-narendra-reddy-4bb72318a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/narendrahackz/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/NarendraHackz">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="http://wa.me/91">
-    <img src="https://img.shields.io/badge/WhatsApp-Green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whats-App Badge"/>
-  </a>
-</div>
+Karnati Sathwika
